@@ -1,0 +1,139 @@
+
+
+
+@media screen and (max-width: 800px) {
+
+  
+
+    .tabcontent {
+        display: none;
+        height: 120vh;
+      }
+      .section3-para{
+font-size: 17px;
+padding-left: 90px;
+padding-right: 90px;
+      }
+
+      .carousel-control-next-icon:after
+{
+  content: ">";
+  font-size: 50px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 50px;
+  color: black;
+}
+  }
+
+  @media screen and (max-width: 1200px) {
+    .tabcontent {
+        display: none;
+        height: 120vh;
+      }
+      .section3-para{
+font-size: 17px;
+padding-left: 90px;
+padding-right: 90px;
+      }
+
+      .carousel-control-next-icon:after
+{
+  content: ">";
+  font-size: 50px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 50px;
+  color: black;
+}
+  }
+
+  @media screen and (min-width:400px) and (max-width: 600px) {
+    #tab-content-1{
+      display: none;
+    }
+
+    .slider{
+      padding-top: 50px;
+    }
+    .heading3{
+      font-size: 20px;
+    }
+
+    .section3-para{
+      font-size: 10px;
+      width: auto;
+      padding: 0 40px 0 0;
+    }
+
+    .tabcontent {
+        display: none;
+        height: 120vh;
+      }
+      .section3-para{
+font-size: 17px;
+padding-left: 90px;
+padding-right: 90px;
+      }
+
+      .carousel-control-next-icon:after
+{
+  content: ">";
+  font-size: 50px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 50px;
+  color: black;
+}
+  }
+
+  @media screen and (min-width:600px) and (max-width: 800px){
+    .slider{
+      padding-top: 50px;
+    }
+    .heading3{
+      font-size: 20px;
+    }
+
+    .section3-para{
+      font-size: 10px;
+      width: auto;
+      padding: 0 40px 0 0;
+    }
+
+    .tabcontent {
+        display: none;
+        height: 120vh;
+      }
+      .section3-para{
+font-size: 17px;
+padding-left: 90px;
+padding-right: 90px;
+      }
+
+      .carousel-control-next-icon:after
+{
+  content: ">";
+  font-size: 50px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 50px;
+  color: black;
+}
+  }
+
+  .mystyle{
+    display: none;
+  }
